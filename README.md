@@ -1,8 +1,8 @@
 ## Olá 👋, sou o Mena
 
-Iniciando os estudos na área de Desenvolvimento Web e cada vez mais apaixonado por essa área. Em busca de me tornar um programador que possa usar da minha experiência e conhecimento para realizar sonhos de pessoas pelo mundo.
+Iniciando os estudos na área de Front-End Web Development e cada vez mais apaixonado por essa área. Em busca de me tornar um programador que possa usar da minha experiência e conhecimento para realizar sonhos de pessoas pelo mundo.
 
-🌱 No momento estou aprendendo **Javascript, ReactJS, Typescript, Node.js e GraphQL**
+🌱 No momento estou aprendendo **ReactJS**
 
  <div>
   <a href="https://github.com/rmmena123">
