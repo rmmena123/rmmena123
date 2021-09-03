@@ -17,8 +17,8 @@ Desenvolvedor Front-End e cada vez mais apaixonado por essa área. Em busca de m
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="VTEX IO" height="30" width="40" src="https://e7.pngegg.com/pngimages/771/394/png-clipart-logo-brand-font-vtex-brastemp-logo-cdr-text-thumbnail.png">
-  <img align="center" alt="Power BI" height="30" width="40" src="https://www.amplix.net/assets/images/Treinamento%20Power%20BI/LogoPowerBI.png"> 
+  <img align="center" alt="VTEX IO" height="30" width="80" src="https://e7.pngegg.com/pngimages/771/394/png-clipart-logo-brand-font-vtex-brastemp-logo-cdr-text-thumbnail.png">
+  <img align="center" alt="Power BI" height="30" width="80" src="https://lh3.googleusercontent.com/proxy/3Cb3mQa8olvvAsWsfWC6CcZekglxbFJYlkX1tFFp4DhTbz7GxfcZzQdchEWrwO7bAsKbBJtN43YmyKR8-cZw31P0YFbXNPLcB8hBmFLYoUPrj_6zSBSfl2OFS3s"> 
   
   <img align="right" alt="Mena-Hachi-Roku" src="https://th.bing.com/th/id/R.f73809f4ce01ecbdcb75d6de1c6271d6?rik=xozi7pcb0KACFA&riu=http%3a%2f%2ffc01.deviantart.net%2ffs70%2ff%2f2012%2f160%2f5%2fb%2finitial_d_1st_stage_gif_icon_by_topgae86turbo-d52uatv.gif&ehk=i47JISRBhm96ckNPCFk4TNr8CbtrvP9yJGlYnH9w0qk%3d&risl=&pid=ImgRaw">
 </div>
