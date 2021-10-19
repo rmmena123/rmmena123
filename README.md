@@ -2,7 +2,7 @@
 
 Desenvolvedor Front-End e cada vez mais apaixonado por essa área. Em busca de me tornar um programador que possa usar da minha experiência e conhecimento para realizar sonhos de pessoas pelo mundo.
 
-🌱 No momento estou aprendendo **ReactJS, SASS e VTEX IO**
+🌱 No momento estou aprendendo **Javascript, ReactJS, SASS e VTEX IO**
 
  <div>
   <a href="https://github.com/rmmena123">
