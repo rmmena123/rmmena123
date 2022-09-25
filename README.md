@@ -5,12 +5,13 @@ Desenvolvedor Front-End com pouco mais de 1 ano de experiência no mercado de E-
 🌱 No momento estou aprendendo **ReactJS**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
   <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sass" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="VTEX IO" height="40" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/VTEX_Logo.svg/400px-VTEX_Logo.svg.png"> 
+  <img align="center" alt="Git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="VTEX IO" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/VTEX_Logo.svg/400px-VTEX_Logo.svg.png">
   
   <img align="right" alt="Mena-Hachi-Roku" src="https://th.bing.com/th/id/R.f73809f4ce01ecbdcb75d6de1c6271d6?rik=xozi7pcb0KACFA&riu=http%3a%2f%2ffc01.deviantart.net%2ffs70%2ff%2f2012%2f160%2f5%2fb%2finitial_d_1st_stage_gif_icon_by_topgae86turbo-d52uatv.gif&ehk=i47JISRBhm96ckNPCFk4TNr8CbtrvP9yJGlYnH9w0qk%3d&risl=&pid=ImgRaw">
 </div>
