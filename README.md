@@ -2,7 +2,7 @@
 
 Desenvolvedor Front-End com pouco mais de 1 ano de experiência no mercado de E-Commerce, cada vez mais apaixonado por essa área da programação. Em busca de me tornar um programador que possa usar da minha experiência e conhecimento para realizar sonhos de pessoas pelo mundo.
 
-🌱 No momento estou aprendendo **ReactJS**
+🏰 Para visualizar os projetos que criei, basta clicar na aba **Repositories** e depois no projeto que deseja ver com mais detalhes.😄
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
