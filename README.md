@@ -1,6 +1,6 @@
 ## Olá 👋, sou o Mena
 
-Desenvolvedor Front-End com pouco mais de 1 ano de experiência no mercado de E-Commerce, cada vez mais apaixonado por essa área da programação. Em busca de me tornar um programador que possa usar da minha experiência e conhecimento para realizar sonhos de pessoas pelo mundo.
+Desenvolvedor front-end com mais de 1 ano de experiência no mercado de e-commerce com foco na utilização das tecnologias VTEX IO e ReactJS. Em busca de me tornar um programador que, através do aprendizado contínuo, possa utilizar cada vez mais da minha experiência e conhecimento para realizar sonhos de pessoas pelo mundo.
 
 🏰 Para visualizar os projetos que criei, basta clicar na aba **Repositories** e depois no projeto que deseja ver com mais detalhes.😄
 
