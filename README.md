@@ -1,8 +1,9 @@
-## Olá 👋, sou o Mena
+## Hi 👋, I'm Mena. Welcome to my portfolio!
 
-Desenvolvedor front-end com mais de 1 ano de experiência no mercado de e-commerce com foco na utilização das tecnologias VTEX IO e ReactJS. Em busca de me tornar um programador que, através do aprendizado contínuo, possa utilizar cada vez mais da minha experiência e conhecimento para realizar sonhos de pessoas pelo mundo.
-
-🏰 Para visualizar os projetos que criei, basta clicar na aba **Repositories** e depois no projeto que deseja ver com mais detalhes.😄
+- Front-end developer with more than 2 years of experience in the e-commerce market using VTEX IO and ReactJS.
+- I'm currently working at Corebiz, on Whirlpool's Compra Certa e-commerce.
+- My career goal is, through constant learning, to become a programmer who can use my experience and knowledge to make people's dreams come true around the world.
+- To view the projects I created, simply click on the **Repositories** tab and then on the project you want to see in more detail.
 
 <div> 
   <a href = "mailto:rodrigo.mena8632@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -11,12 +12,10 @@ Desenvolvedor front-end com mais de 1 ano de experiência no mercado de e-commer
 
 ##
 
-<div style="display: inline_block">
-  <a href="https://github.com/anuraghazra/github-readme-stats" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmmena123&langs_count=8" />
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmmena123&layout=compact" />
   </a>
-  
-  <img align="right" width="450" src="https://github.com/rmmena123/rmmena123/assets/68246508/e8e0c11b-1865-48eb-a519-ee1dfc66d4e9" />
 </div>
 
 <div style="display: inline_block" align="center">
