@@ -1,10 +1,10 @@
 ## Hi 👋, I'm Mena. Welcome to my portfolio!
 
-- Front-end developer with more than 2 years of experience in the e-commerce market using VTEX IO and ReactJS.
+- I'm a front-end developer with more than 2 years of experience in the e-commerce market using VTEX IO and ReactJS.
 - I'm currently working at Corebiz, on Whirlpool's Compra Certa e-commerce.
 - My career goal is, through constant learning, to become a programmer who can use my experience and knowledge to make people's dreams come true around the world.
 - To view the projects I created, simply click on the **Repositories** tab and then on the project you want to see in more detail.
-- I'm currently learning ReactJS and Typescript.
+- I'm currently learning ReactJS, Typescript and Next.js.
 
 <div> 
   <a href = "mailto:rodrigo.mena8632@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
