@@ -1,26 +1,31 @@
-## Olá 👋, sou o Mena. Bem-vindo ao meu portfólio!
+## Hi 👋, I'm Mena. Welcome to my portfolio!
 
-Sou um profissional com mais de 3 anos de experiência como desenvolvedor front-end e mais de 5 anos na área de tecnologia. Iniciei minha jornada na Empresa Júnior IDE, onde descobri a área de desenvolvimento web e desenvolvi os primeiros projetos da carreira. Também atuei como estagiário na SSP-RS, onde realizei diversas análises relacionadas a indicadores criminais.
+### About Me
 
-Atualmente trabalho como desenvolvedor front-end na Corebiz há mais de 3 anos, empresa referência na implantação de e-commerces, com foco na utilização de metodologias ágeis e das tecnologias React, Typescript e VTEX IO. Atuo em um de seus maiores clientes, a Whirlpool, referência global no ramo de eletrodomésticos para cozinha e lavanderia, especificamente no e-commerce do Compra Certa, uma de suas marcas.
+I am a passionate **front-end developer** with over 3 years of professional experience and a total of more than 5 years in the technology field. My journey in web development started at **Empresa Júnior IDE**, where I discovered my passion for creating and delivering impactful digital solutions. During this time, I worked on my first projects and laid the foundation for my career. Additionally, I had the opportunity to intern at **SSP-RS**, conducting in-depth analyses of criminal indicators.
 
-Sou um profissional que busca constantemente realizar entregas de qualidade, colaborar com equipes utilizando metodologias ágeis, criar soluções eficientes e inovadoras, melhorar processos e vejo grande valor na construção de projetos e relações à longo prazo. Estou sempre aberto a novas oportunidades que tragam desafios e crescimento profissional.
+Currently, I am part of the team at **Corebiz**, a leading company in e-commerce solutions, where I have been contributing for over 3 years. My expertise lies in **React**, **TypeScript**, and **VTEX IO**, and I thrive in environments that prioritize **agile methodologies** and teamwork. I have the privilege of working with **Whirlpool**, a global leader in home appliances, where I focus on enhancing the e-commerce platform of **Compra Certa**, one of its key brands.
 
-Principais habilidades:
-- Javascript
-- React
-- Typescript
-- VTEX
-- Testes automatizados
-- Atuação em times ágeis
-- Comunicação eficaz
-- Disciplina e organização
-- Otimização de processos
-- Documentação (PRD, Código e Processos)
+I am committed to delivering high-quality and innovative solutions, optimizing processes, and fostering collaboration within teams. I value long-term projects and relationships, and I am always eager to embrace new challenges and professional growth opportunities.
 
-Para visualizar os projetos que criei e/ou participei, basta clicar na aba **Repositórios** e então no projeto que deseja ver com mais detalhes.
+### Key Skills
+
+- **Javascript**
+- **React**
+- **Typescript**
+- **VTEX**
+- **Automated Testing**
+- **Agile Teamwork**
+- **Effective Communication**
+- **Discipline and Organization**
+- **Process Optimization**
+- **Documentation** (PRD, Code, and Processes)
+
+### Projects
+
+To explore the projects I have created or contributed to, simply navigate to the **Repositories** tab and select any project to view it in more detail.
 
 <div> 
-  <a href = "mailto:rodrigo.mena8632@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rmmena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:rodrigo.mena8632@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rmmena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge" target="_blank"></a> 
 </div>
