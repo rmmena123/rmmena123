@@ -13,8 +13,7 @@ I am committed to delivering high-quality and innovative solutions, optimizing p
 - **Javascript**
 - **React**
 - **Typescript**
-- **VTEX**
-- **Automated Testing**
+- **VTEX IO** (Custom Components)
 - **Agile Teamwork**
 - **Effective Communication**
 - **Discipline and Organization**
