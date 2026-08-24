@@ -1,24 +1,14 @@
-## Olá 👋, seja bem-vindo ao meu Github!
+## 👋 Hello there! I'm Mena
 
-```js
-import Desenvolvedor from "rmmena123";
+I am a 26-year-old **Front-End Engineer** based in Porto Alegre, Brazil 🇧🇷, with more than 5 years of experience. Holding a degree in Internet Systems Technology and a postgraduate certificate in Full Stack Web Development, I specialize in the modern web ecosystem, working heavily with **React, TypeScript, Next.js, and VTEX**. My career is built on a collaborative, results-oriented mindset, combining technical discipline with a strong focus on agile methodologies and product metrics. 🚀
 
-class SobreMim extends Desenvolvedor {
-  nome = "Rodrigo Mena";
-  area = "Front-End Development";
-  trabalho = "Corebiz";
-  local = "Remoto";
-}
+**Beyond the code...**
+I am a tech enthusiast who values quality time with family and friends, always looking forward to traveling and experiencing new cultures ✈️. When I’m off the clock, you can usually find me:
 
-class Skills extends Desenvolvedor {
-  linguagens = ["HTML", "CSS", "Javascript", "Typescript", "GraphQL", "Node.js"];
-  bibliotecas = ["ReactJS", "Next.js", "React Native", "SASS", "Tailwind CSS", "Storybook", "Shadcn", "Jest", "Playwright"];
-  plataformas = ["VTEX IO", "VTEX Fast Store"];
-  ferramentas = ["IA", "Notion", "Power BI", "Figma", "Git", "Github", "Atlassian"];
-  softSkills = ["Comunicação", "Organização", "Disciplina", "Resolução de problemas", "Foco em resultados e performance", "Proatividade", "Trabalho em equipe", "Atenção aos detalhes", "Melhoria contínua"];
-}
-```
+- 📸 Practicing photography
+- 🤼‍♂️ Watching AEW 
+- ⚽ Cheering for Sport Club Internacional
+- 🏎️ Playing Forza Horizon
+- ⛩️ Diving into my favorite animes like *Bleach, Initial D*, and *Fullmetal Alchemist*.
 
-<a href="https://github.com/rmmena123" title="Perfil do Rodrigo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmmena123&theme=dracula&show_icons=true" />
-</a>
+📫 **Open to connecting and discussing:** Front-End, AI, Data Analysis, and digital product development.
