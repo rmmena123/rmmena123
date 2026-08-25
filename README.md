@@ -1,6 +1,6 @@
 ## 👋 Hello there! I'm Mena
 
-I am a 26-year-old **Front-End Engineer** based in Porto Alegre, Brazil 🇧🇷, with more than 5 years of experience. Holding a degree in Internet Systems Technology and a postgraduate certificate in Full Stack Web Development, I specialize in the modern web ecosystem, working heavily with **React, TypeScript, Next.js, and VTEX**. My career is built on a collaborative, results-oriented mindset, combining technical discipline with a strong focus on agile methodologies and product metrics. 🚀
+I am a 27-year-old **Front-End Engineer** based in Porto Alegre, Brazil 🇧🇷, with more than 5 years of experience. Holding a degree in Internet Systems Technology and a postgraduate certificate in Full Stack Web Development, I specialize in the modern web ecosystem, working heavily with **React, TypeScript, Next.js, and VTEX**. My career is built on a collaborative, results-oriented mindset, combining technical discipline with a strong focus on agile methodologies and product metrics. 🚀
 
 **Beyond the code...**
 
